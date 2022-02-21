@@ -17,6 +17,14 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - Gems in Ruby are packages of code/ libraries. It's similar to extentions or add-ons in programs. <br>
 
 ## Part 2
+<em>**Conditional**</em> - Conditional statements are expressions that evaluate to either true or false and are commonly used in loops. <br>
+<em>**The difference between if, elseif and else.**</em> - If is a conditional statement that can only be used one during a loop process and is typically used as the first conditional. Elseif can be used as many times as needed and follow the If expression. Else is the final conditional expression and is only used once. Else is used as a way to encompass any other condition that has not been specifically covered previously in the loop. <br>
+<em>**What are Case/When statements? </em> - A case statement is similar to a switch statement and takes in the variable that will be used in the condition. When statements are used to match a single condition. While there is only one case statement, there can be several when statements.  <br>
+<em>**What is a data structure? </em> - A data structure is a way to organize data in programming. Data structures make it easier for computers to efficiently access data or information as needed.  <rb>
+<em>**Arrays**</em> - Arrays are data structures used to organize and store information. Arrays hold a list of elements that are each indexed, beginning at 0. <br>
+<em>**What is meant by 'built-in' methods?**</em> - Built-in methods are part of a programming language package and perform tasks as called. <br>
+<em>**Loops**</em> - Loops are blocks of code that cycle through conditional expressions to determine if expressions are true or false. They repeat over and over until the all expressions are evaluated or until the condition is satisfied and the loop breaks. <br>
+<em>**What are infinite loops?**</em> - Infinite loops are loops that continue to repeat over and over with no break and no terminating condition. It's important to avoid infinite loops because they require immense amounts of memory and can crash the machine/ application.  <br>
 
 ## Part 3
 
