@@ -27,6 +27,12 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What are infinite loops?**</em> - Infinite loops are loops that continue to repeat over and over with no break and no terminating condition. It's important to avoid infinite loops because they require immense amounts of memory and can crash the machine/ application.  <br>
 
 ## Part 3
+<em>**What is Object Oriented Programming?**</em> - Object oriented programming is based on the concept of "objects" and that every object is a "thing" that includes features, attributes, and behaviors. Classes are used to outline each category or object such as a pen. The pen class may have attributes such as color, size, type. It will also have methods which describe how the pen functions such as click, write, etc. This class can then be used to create instances of the object. <br>
+<em>**Class inheritance**</em> - Inheritance is hte process of one class inheriting properties and methods of another class. This makes code resusable and easier to read. Inheritance allows child classes to have access to the methods in the parent class. <br>
+<em>**What are getters and setters?**</em> - Getters are get methods that allow users to get the value of an instance variable. Setters are setter methods that allow for setting the value of an instance variable in a class. <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - Class variables are variables declared inside of a class but outside of a method or constructor and define an attribute of that class. Instance variables are variables that are instance specific meaning they do not necessarily apply to the entire class, but to a specific instance of that class. Class attributes are variables owned the by the class itself.  <br>
+<em>**What does self signify in a class?**</em> - Self refers to the object currently being handled. <br>
+<em>**Modules</em> - A module is a collection of methods and variables similar to a class. Modules cannot be inherited and cannot be used to create a subclass. Also unlike classes, modules cannot be used to create objects. <br>
 
 ## Part 4
 
