@@ -35,6 +35,9 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Modules</em> - A module is a collection of methods and variables similar to a class. Modules cannot be inherited and cannot be used to create a subclass. Also unlike classes, modules cannot be used to create objects. <br>
 
 ## Part 4
+<em>**Bundler**<em> - Bundler makes sure the Ruby project has all the gems and packages needed to run properly. It tracks the gems that are installed and the versions. <br>
+<em>**Gemfile**<em> - Gemfile is the file that is created to hold the gem dependencies for Ruby programs. It is similar to the package.json file in Angular. <br>
+<em>**Bcrypt**<em> - Bcrypt is used to handle passwords in a safe and secure manner. It is a hashing algorithm. <br>
 
 
 
